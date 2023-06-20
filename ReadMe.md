@@ -44,3 +44,8 @@ To get a local copy of Aid-Nook up and running, follow these steps:
 🌐 To learn more about The Sparks Foundation and its initiatives, please visit their official website: [https://lnkd.in/d7e3pFFA](https://lnkd.in/d7e3pFFA)
 
 💌 Your valuable feedback and support are highly appreciated. Let's make a positive impact together!
+
+![Laptop home page](https://github.com/Bhowal19/Aid-Nook/assets/109750332/2dcd52f3-df69-49b8-b898-3c018257ef99)
+![Laptop Donation page](https://github.com/Bhowal19/Aid-Nook/assets/109750332/401ea33d-6a0c-48b2-976f-37d6e8f81afa)
+![Razorpay Laptop](https://github.com/Bhowal19/Aid-Nook/assets/109750332/20a3f017-16a2-402d-8405-40135c2a3ef7)
+
